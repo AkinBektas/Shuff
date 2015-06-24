@@ -6,7 +6,7 @@ module.exports =
 
 
   rootView:
-     location: "http://145.85.232.181:8080/splashscreen.html" # URLs are supported!
+     location: "http://192.168.1.44:8080/index.html" # URLs are supported!
 
   preloads: [
     {
